@@ -1,8 +1,8 @@
-# upr-shortener
+# url-shortener
 
 ## Descrição
 
-**upr-shortener** é uma aplicação desenvolvida em **Go** para encurtamento de URLs. Ela utiliza o framework **go-chi** para gerenciar as rotas de forma eficiente e modular.
+**url-shortener** é uma aplicação desenvolvida em **Go** para encurtamento de URLs. Ela utiliza o framework **go-chi** para gerenciar as rotas de forma eficiente e modular.
 
 ## Recursos
 
