@@ -22,8 +22,8 @@
 ### 1. Clonar o repositório
 
 ```sh
-git clone https://github.com/seu-usuario/upr-shortener.git
-cd upr-shortener
+git clone https://github.com/tyagolp/go-url-shortener.git
+cd go-url-shortener
 ```
 
 ### 2. Instalar as dependências
@@ -75,7 +75,7 @@ curl -L http://localhost:8080/abcd1234
 ## Estrutura do Projeto
 
 ```
-/upr-shortener
+/go-url-shortener
 ├── main.go
 ├── go.mod
 ├── go.sum
